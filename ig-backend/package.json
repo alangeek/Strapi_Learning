@@ -1,5 +1,5 @@
 {
-  "name": "cms",
+  "name": "ig-backend",
   "private": true,
   "version": "0.1.0",
   "description": "A Strapi application",
@@ -28,7 +28,7 @@
     "name": "A Strapi developer"
   },
   "strapi": {
-    "uuid": "32e5f51c-13ec-4eee-a4f7-33d84472f282"
+    "uuid": "1c3481a4-33b7-4ab3-a498-74983d75184f"
   },
   "engines": {
     "node": ">=10.16.0 <=14.x.x",
